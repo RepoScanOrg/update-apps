@@ -1,0 +1,4 @@
+veracode-api-py
+requests>=2.21.0
+veracode-api-signing>=19.9.0
+python-dotenv==1.0.1
